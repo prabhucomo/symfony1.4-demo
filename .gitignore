@@ -1,0 +1,17 @@
+/nbproject/private/
+cache/*
+log/*
+lib/vendor/symfony/*
+nbproject/*
+config/databases.yml
+config/odm.yml
+*.settings
+*.buildpath
+*.project
+*DS_Store
+/plugins/.registry/
+web/mongoadmin.php
+web/uploads/*
+/.TemporaryItems/
+.idea/
+log/admin_dev.log
